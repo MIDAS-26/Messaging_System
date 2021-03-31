@@ -1,2 +1,3 @@
 # messaging system
- A local instant messaging system made with Java on NetBeans
+ A local instant messaging system made with Java and MySQL.
+
